@@ -1,2 +1,2 @@
-# GameLore-RAG-Minecraft
-Retrieval‑augmented Q&amp;A over Minecraft Wiki
+# GameLore-RAG
+Retrieval‑augmented Q&amp;A over WoW Wiki
